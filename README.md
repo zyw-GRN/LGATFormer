@@ -1,6 +1,6 @@
 ## LGATFormer: A Dual-Path Model Combining Line Graph Attention and Transformer for Gene Regulatory Network Inference
 
-![](https://github.com/zyw-GRN/LGATFormer/blob/main/%E6%A8%A1%E5%9E%8B%E5%9B%BE-v3.png)
+![](https://github.com/zyw-GRN/LGATFormer/blob/main/figure.png)
 
 ## Dependencies
 
