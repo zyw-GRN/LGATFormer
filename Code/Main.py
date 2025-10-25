@@ -25,8 +25,8 @@ random.seed(args.seed)
 torch.manual_seed(args.seed)
 np.random.seed(args.seed)
 
-gene = 'mHSC-GM'
-tl = 'Dataset/Benchmark Dataset/Data/Specific/'+gene+' 500'
+gene = 'hESC'
+tl = 'Dataset/Benchmark Dataset/Data/STRING/'+gene+' 500'
 print(tl)
 train_lines = []
 test_lines = []
